@@ -147,6 +147,7 @@ Some helpful utility snippets:
 #### Study Links
 
 - [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296)
+- [Dynamic Programming – 7 Steps to Solve any DP Interview Problem](http://blog.refdash.com/dynamic-programming-tutorial-example/)
 
 #### Notes
 
@@ -489,7 +490,7 @@ Recursion is a common approach for trees. When you notice that the subtree probl
 
 When using recursion, always remember to check for the base case, usually where the node is `null`.
 
-When you are asked to traverse a tree by level, use depth first search.
+When you are asked to traverse a tree by level, use breadth-first search.
 
 Sometimes it is possible that your recursive function needs to return two values.
 

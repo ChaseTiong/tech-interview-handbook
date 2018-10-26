@@ -48,7 +48,7 @@ These questions are suitable for any technical role.
 * What do you measure? What are your most important product metrics?
 * What does the company do to nurture and train its employees?
 * How often have you moved teams? What made you join the team you're on right now? If you wanted to move teams, what would need to happen?
-* If you hire person, what do you have for him to study product you're working on and processes in general? Do you have specifications, requirements, documentation?
+* What resources does the company have for new hires to study its product and processes? Are there specifications, requirements, documentation?
 * There's "C++" (or Python, Swift or any other tech) in the job description. How will you estimate my proficiency in this tech in 3 months?
 * How do you think my expertise would be relevant to this team? What unique value can I add?
 
@@ -67,7 +67,7 @@ These questions are suitable for any technical role.
 These questions are suitable for asking Engineering Managers, especially useful for the Team Matching phase of Google interviews or post-offer calls that your recruiters set up with the various team managers.
 
 * **How do you train/ramp up engineers who are new to the team?**
-* **What does success look like for your team?**
+* **What does success look like for your team/project?**
 * **What qualities do you look out for when hiring for this role?**
 * **What are the strengths and weaknesses of the current team? What is being done to improve upon the weaknesses?**
 * **Can you tell me about a time you resolved an interpersonal conflict?**
@@ -78,6 +78,18 @@ These questions are suitable for asking Engineering Managers, especially useful 
 * How often are 1:1s conducted?
 * What is the current team composition like?
 * What opportunities are available to switch roles? How does this work?
+* Two senior team members disagree over a technical issue. How do you handle it?
+* Have you managed a poor performer at some point in your career before? What did you do and how did it work?
+* Where do you spend more of your time, high performers or low performers?
+* Sometimes there's a trade-off between what's best for one of your team members and what's best for the team. Give an example of how you handled this and why.
+* Give an example of a time you faced a difficult mentoring/coaching challenge. What did you do and why?
+* What is your management philosophy?
+* What is the role of data and metrics in managing a team like ours?
+* What role does the manager play in making technical decisions?
+* What is an example of a change you have made in the team that improved the team?
+* What would be the most important problem you would want me to solve if I joined your team?
+* What opportunities for growth will your team provide?
+* What would I work on if I joined this team and who would I work most closely with?
 
 ### Leadership
 
@@ -112,3 +124,4 @@ These questions are intended for senior level management, such as CEO, CTO, VPs.
 * [A developer's guide to interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 * [Questions I'm asking in interviews 2017](https://cternus.net/blog/2017/10/10/questions-i-m-asking-in-interviews-2017/)
 * [What are good questions to ask during a software developer interview when asked "Do you have any questions now?"](https://www.quora.com/What-are-good-questions-to-ask-during-a-software-developer-interview-when-asked-do-you-have-any-questions-now/answer/John-L-Miller)
+* [What are some good questions to ask when interviewing someone for a manager position?](https://www.quora.com/What-are-some-good-questions-to-ask-when-interviewing-someone-for-a-manager-position/answer/David-Seidman)
